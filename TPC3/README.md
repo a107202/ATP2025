@@ -1,4 +1,4 @@
-# TPC2: Aplicação para manipulação de listas de inteiros
+# TPC3: Aplicação para manipulação de listas de inteiros
 
 ## Ana Teresa da Silva Ribeiro
 
