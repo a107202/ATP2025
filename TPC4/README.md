@@ -1,4 +1,4 @@
-# TPC$: Aplicação para gerir um cinema
+# TPC4: Aplicação para gerir um cinema
 
 ## Ana Teresa da Silva Ribeiro
 
