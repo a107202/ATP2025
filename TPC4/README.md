@@ -11,16 +11,16 @@ Nesse centro comercial existem algumas salas de cinema (que poderão estar a exi
 lotação, uma lista com a referência dos bilhetes vendidos (lugares ocupados; cada lugar é identificado por um número inteiro), e cada sala tem um filme associado.
 
 Considera a seguinte sugestão para o modelo dos cinemas:
-
+```
 Cinema = [Sala]
 Sala = [nlugares, Vendidos, filme]
 nlugares = Int
 filme = String 
 Vendidos = [Int]
-
+```
   
 Que poderá ser usado num programa da seguinte forma:
-
+```
 sala1 = (150, [], "Twilight")
 sala2 = (200, [], "Hannibal")
 cinema1 = []
@@ -36,7 +36,7 @@ if(disponivel(cinema1, "Twilight", 17 )):
 ...
 listardisponibilidades(cinema1)
 ...
-
+```
 
 Especifique as funções utilizadas no exemplo:
 
