@@ -1,4 +1,4 @@
-# TPC7: Aplicação para gestão da meteorologia
+# TPC7: Teste de aferição
 
 ## Ana Teresa da Silva Ribeiro
 
