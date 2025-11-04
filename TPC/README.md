@@ -20,7 +20,13 @@ print(naoComuns)
 ```
 - b) Lista formada pelas palavras do texto compostas por mais de 3 letras:
 ```
+texto = """Vivia há já não poucos anos algures num concelho do Ribatejo 
+    um pequeno lavrador e negociante de gado chamado Manuel Peres Vigário"""
+lista = [...]
+
+
 lista = [palavra for palavra in texto.split() if len(palavra) > 3]
 print(lista)
 ```
+
 
